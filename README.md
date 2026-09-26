@@ -200,8 +200,8 @@ The research examines machine learning approaches for stock market forecasting a
 
 # Author
 
-Md Shakil Hossen
-Department of Computer Science and Engineering
+Md Shakil Hossen,
+Department of Computer Science and Engineering,
 Chandigarh University, Mohali, India
 
 Research focus: Machine Learning, Artificial Intelligence, Financial Data Analysis, and Predictive Analytics.
